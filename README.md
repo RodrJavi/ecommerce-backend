@@ -18,4 +18,4 @@ Download/clone repository and run "npm install" from the terminal in the root fo
 
 Once the above instructions have been completed, the user may also use the provided seeds if they wish to have data to work with by running "npm run seed" in the terminal. Insomnia can be used to test any get,post, and push requests with the categories,products, and tag models.
 
-[Walkthrough video](https://drive.google.com/file/d/1V-a0df490LbBTixgizrmQdt6cn-Z3bbj/view)
+[Walkthrough video](https://drive.google.com/file/d/1eB385wUfeyZmpi9ZVxThiVu697ggNC6J/view)
